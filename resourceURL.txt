@@ -1,0 +1,68 @@
+﻿1 git中列出指定目录下所有文件
+git ls-files
+
+1 StringBuffer的学习链接
+http://www.cnblogs.com/springcsc/archive/2009/12/03/1616330.html
+
+2 intellj idea快捷键链接
+
+http://blog.csdn.net/hudie1234567/article/details/7018833
+
+
+3 http的两种请求方式：post,get讲解
+http://baiyan425.blog.51cto.com/1573961/614737/
+
+4 csdn模拟用户登陆
+http://blog.csdn.net/njchenyi/article/details/38801287
+
+5 jar包下载的网址
+http://cn.jarfire.org/commons.collections.html
+
+6 聚合数据的网址
+https://www.juhe.cn/
+
+7 csv直接导入neo4j
+http://blog.csdn.net/heyuanhao1989/article/details/49704897
+
+8 xgboost算法介绍 
+http://cos.name/2015/03/xgboost/
+http://blog.csdn.net/ssw_1990/article/details/51744502
+https://github.com/dmlc/xgboost/issues
+
+9 boost方法介绍
+http://www.cnblogs.com/LeftNotEasy/archive/2011/01/02/machine-learning-boosting-and-gradient-boosting.html
+
+10 adaboost方法介绍
+http://blog.csdn.net/tiandijun/article/details/48036025
+
+
+11 xgboost参数介绍
+http://blog.csdn.net/zc02051126/article/details/46711047
+
+12 xgboost学习示例
+https://www.kaggle.com/khozzy/rossmann-store-sales/xgboost-parameter-tuning-template/run/90168/code
+http://stackoverflow.com/questions/35050846/xgboost-in-r-how-does-xgb-cv-pass-the-optimal-parameters-into-xgb-train
+https://www.kaggle.com/c/otto-group-product-classification-challenge
+
+13 gitHub
+http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/
+
+
+14 不平衡分类
+http://mp.weixin.qq.com/s?__biz=MzA5NTIzMTUxMw==&mid=502561612&idx=1&sn=19946dc32e3004452a2f3b6d28a28e36&scene=1&srcid=09022p0HrV062RVnLiF7Qmiz#rd
+
+
+15 R语言中缺少jvm.dll
+http://jingyan.baidu.com/article/67662997488ac554d51b8487.html
+
+16 R中安装SparkR
+http://blog.sina.com.cn/s/blog_4ac9f56e0102w6hc.html
+
+
+17  SparkR的使用-dataframe
+https://www.iteblog.com/archives/1385
+
+18 SparkR的官方文档
+http://amplab-extras.github.io/SparkR-pkg/
+http://spark.apache.org/docs/latest/sparkr.html
+
